@@ -17,7 +17,7 @@ Oh, Y., Sharp, M., Sprock, T., & Kwon, S. (2021). Neural network-based build tim
 * The code of the following files should be sequentially run in the Python script embedded in Blender 2.82
   - (Step 1) PartNormalization.py
   - (Step 2) PartGeneration.py
-  - (Step 3) BuildTimeEstimation(CURA).py
+  - (Step 3) BuildTimeCaluculation(CURA).py
   - (Step 4) STLtoOBJ.py 
   - (Step 5) Voxelization.py 
 
