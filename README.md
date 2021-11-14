@@ -10,6 +10,7 @@ Oh, Y., Sharp, M., Sprock, T., & Kwon, S. (2021). Neural network-based build tim
 * A metadata file 
   - Build time is calculated by the CURA engine
 * Voxelization.exe 
+* The CURA engine & a config file for a 3D printer
 
 **How to run**
 
