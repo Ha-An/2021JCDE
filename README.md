@@ -7,10 +7,8 @@ Oh, Y., Sharp, M., Sprock, T., & Kwon, S. (2021). Neural network-based build tim
 **Requirements**
 * BLENDER 2.82 & PYTHON 3.7.4 (embeded script), https://www.blender.org/download/releases/2-82/
 * 3D model files (We used Baumann's dataset, https://doi.org/10.3390/data3010005) 
-* A metadata file 
-  - Build time is calculated by the CURA engine
-* Voxelization.exe 
 * The CURA engine & a config file for a 3D printer
+* Voxelization.exe 
 
 **How to run**
 
